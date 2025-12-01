@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ターンＡターン",
+  "base_artist": "西城秀樹",
+  "createdAt": "2025-12-01T15:23:58.880894Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ターンAターン",
+      "artist": "西城秀樹",
+      "has_synced": true,
+      "path": "select/01_ターンAターン_西城秀樹.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ターンＡターン",
+      "artist": "Hideki Saijou",
+      "has_synced": true,
+      "path": "select/02_ターンAターン_Hideki_Saijou.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Turn A Turn [ターンAターン]",
+      "artist": "Hideki Saijo",
+      "has_synced": true,
+      "path": "select/03_Turn_A_Turn_[ターンAターン]_Hideki_Saijo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ターンAターン",
+      "artist": "Hideki Saijo",
+      "has_synced": true,
+      "path": "select/04_ターンAターン_Hideki_Saijo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ターンAターン(Off Vocal Version)",
+      "artist": "西城秀樹",
+      "has_synced": true,
+      "path": "select/05_ターンAターン(Off_Vocal_Version)_西城秀樹.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ターンAターン",
+      "artist": "EIZO Japan",
+      "has_synced": false,
+      "path": "select/06_ターンAターン_EIZO_Japan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ターンAターン",
+      "artist": "西城 秀樹",
+      "has_synced": false,
+      "path": "select/pl_01_ターンAターン_西城_秀樹.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ターンAターン",
+      "artist": "西城 秀樹",
+      "has_synced": false,
+      "path": "select/pl_02_ターンAターン_西城_秀樹.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ターンAターン / with 神永大輔(和楽器バンド)",
+      "artist": "西城 秀樹",
+      "has_synced": false,
+      "path": "select/pl_03_ターンAターン___with_神永大輔(和楽器バンド)_西城_秀樹.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ターンAターン",
+      "artist": "西城 秀樹",
+      "has_synced": false,
+      "path": "select/pl_04_ターンAターン_西城_秀樹.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ターンAターン",
+      "artist": "西城 秀樹",
+      "has_synced": false,
+      "path": "select/pl_05_ターンAターン_西城_秀樹.txt"
+    }
+  ]
+}
